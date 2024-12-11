@@ -162,11 +162,18 @@ main section{
     gap: 40px;
 }
 .experience-sub-title{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
+    
+}
+
+.duration{
+    font-size: 14px;
+    font-weight: 600;
+    font-style: italic;
     margin-bottom: 20px;
 }
-.experience-description, .experience-sub-title{
+.experience-description, .experience-sub-title, .duration{
     color: #757575;
 }
 .resume hr{
